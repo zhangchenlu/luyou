@@ -2,7 +2,7 @@ var Home=Vue.component("home",{
     template:`<div class="home">
                     <Nav></Nav>
                     <div class="pic">
-                    <img src="./img/flower.jpg" alt="">
+                    <img src="" alt="">
 </div>
                    
               </div>`
